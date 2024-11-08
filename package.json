@@ -1,5 +1,5 @@
 {
-  "name": "Andbad-md",
+  "name": "DON-md",
   "version": "2.0.0",
   "description": "",
   "main": "index.js",
@@ -13,10 +13,10 @@
   "keywords": [
     "bot",
     "Baileys",
-    "Bmw-md",
+    "DON-md",
     "whatsapp",
     "whatsapp-bot",
-    "bmw-md-boy"
+    "DON-md-boy"
   ],
   "author": "Andbad",
 "license": "ISC",
