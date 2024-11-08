@@ -1,9 +1,9 @@
 {
-  "name":"ANDBAD MD",
+  "name":"DON MD",
   "description":"Deploy now your bot, ANDBAD was developed by MrAndbad himself.Make sure you fill all valuables to avoid bot from sleeping. ",
   "keywords":["bot","node","baileys","whatsapp"],
   "logo":"https://i.imgur.com/L4U2K76.jpeg",
-  "repository":"https://github.com/Mrandbad/ANDBAD-MD-V1",
+  "repository":"https://github.com/User2341736/ANDBAD-MD-V1",
   "succes_url":"/",
   "stack":"container",
   "env":{
@@ -35,8 +35,8 @@
     "BOT_NAME" : {
        
       "description":"put A name for your bot",
-      "value":" ANDBAD MD",
-      "required":false
+      "value":" DON MD",
+      "required":true
 
     } ,
      "BOT_MENU_LINKS" : {
@@ -67,23 +67,23 @@
     "SESSION_ID":
     {
       "description":"put your session ID, the code you received after pairing code",   
-      "value":"",
+      "value":"ANDBAD-BOT;;;eyJub2lzZUtleSI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiSUtERWI0TXphRVlaQ1FvbUU0Qk1ESXQ1UWFxSGp2c3doeGh2My85Rm9IND0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoicDZTWnZJOHhpbG5xTC96VUFqdUFMektBbjB4czFYbGpwcExoY3EwdVNDMD0ifX0sInBhaXJpbmdFcGhlbWVyYWxLZXlQYWlyIjp7InByaXZhdGUiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJrRFd3cGFBWi9acDNRdnpudG1LNDlBb0VZODdQQjZjbFRsN0Riak5McFhzPSJ9LCJwdWJsaWMiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJ6RFBQSGVSVmpJaDZsSmJGcWxvSE40Z0hsc05sdGt4QzhsOVh6TWFoUWpRPSJ9fSwic2lnbmVkSWRlbnRpdHlLZXkiOnsicHJpdmF0ZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IndKdUhSN0pnOU5rOXJpWnN4aVhCci9KY0JpbU15QkZhVHYxZkx1eGQ5MDA9In0sInB1YmxpYyI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IklPNTBycllKUXMvNzdOdDNGVzU3T1FkTU9DcUNscW8zSVJ3K3lkbEkraE09In19LCJzaWduZWRQcmVLZXkiOnsia2V5UGFpciI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiWUZaYlpHMHZGS2FCazdwNjNBM3dOQWsybGJnVURrdk4rK3BLdUhQSW8wND0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiQTJWNEFXcXo4WWVVbjE2dVlMbnI2WGUyMmVIM3ZoTHNUN1Ntb0s4MGhRTT0ifX0sInNpZ25hdHVyZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IklpdTB3TzhOTUF3aUFvdUhvTEZlRUtwZ1FIVXJNVnFDU0hINzMxTTArSjA5YnEyL2xFZ1cvQ3JnNWdRUXhPQjFtczlZbmwvQkxUMkNtd3c0VmdHNGl3PT0ifSwia2V5SWQiOjF9LCJyZWdpc3RyYXRpb25JZCI6MjQxLCJhZHZTZWNyZXRLZXkiOiJOQzVhOWV3c3loRVlCRVNrbG9GUUhxcXFHeDVKYTlWcHFSQTJpaVhjRlNjPSIsInByb2Nlc3NlZEhpc3RvcnlNZXNzYWdlcyI6W10sIm5leHRQcmVLZXlJZCI6MzEsImZpcnN0VW51cGxvYWRlZFByZUtleUlkIjozMSwiYWNjb3VudFN5bmNDb3VudGVyIjowLCJhY2NvdW50U2V0dGluZ3MiOnsidW5hcmNoaXZlQ2hhdHMiOmZhbHNlfSwiZGV2aWNlSWQiOiJZbkRLdHU3ZVJ4eXFDUjBDY1NrWllnIiwicGhvbmVJZCI6ImYyZWNjYjZmLWExMWItNDljNy1iOTMwLWQ0MWEyMDU5ZmYyMSIsImlkZW50aXR5SWQiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiI1WlppZ0RZZWY3bU5EbUlrT1Y5WHhZMFJQMEk9In0sInJlZ2lzdGVyZWQiOnRydWUsImJhY2t1cFRva2VuIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiSnVRMS8yZXE1YWxxUldIaEtlSlZ4d1JtSzI4PSJ9LCJyZWdpc3RyYXRpb24iOnt9LCJwYWlyaW5nQ29kZSI6IkRRODVNUzhXIiwibWUiOnsiaWQiOiIyNjM3MTk5Mjk4NTk6NDVAcy53aGF0c2FwcC5uZXQifSwiYWNjb3VudCI6eyJkZXRhaWxzIjoiQ0ttT2g5Z0VFTEtkdUxrR0dBVWdBQ2dBIiwiYWNjb3VudFNpZ25hdHVyZUtleSI6InhFeGpQUTNnTjArbmppS09ML3N1ajdZdkE5K2MvQmZFVTdtbGRiUU1Qa2M9IiwiYWNjb3VudFNpZ25hdHVyZSI6ImJFeFRhazNZUW1ZU0Fhc2drSENEQnBSSmsvV2pnOFdJd0tjZzJ2VjBWK3V6VlduUUJEdE9wd2NCUmtjTkxLOTVrcGVqaU1aRk1vclFrelgrTzQ0Q0JnPT0iLCJkZXZpY2VTaWduYXR1cmUiOiJCdDg4Z3hnQzVnZXVHdThDMlF3eFMwK1FoUitpRy9PTHFuT3g5VlBqT0RQRG91SnQ3Y09xdjBtRE9VUDBpdnE1OXoxVmN1dnVnTEtnb1NpWFhXcjdpUT09In0sInNpZ25hbElkZW50aXRpZXMiOlt7ImlkZW50aWZpZXIiOnsibmFtZSI6IjI2MzcxOTkyOTg1OTo0NUBzLndoYXRzYXBwLm5ldCIsImRldmljZUlkIjowfSwiaWRlbnRpZmllcktleSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IkJjUk1ZejBONERkUHA0NGlqaS83TG8rMkx3UGZuUHdYeEZPNXBYVzBERDVIIn19XSwicGxhdGZvcm0iOiJhbmRyb2lkIiwibGFzdEFjY291bnRTeW5jVGltZXN0YW1wIjoxNzMxMDcxNjc5LCJteUFwcFN0YXRlS2V5SWQiOiJBQUFBQUpaMiJ9",
       "required":true
       
     },
     "OWNER_NAME":
     {
     
-    "desc": "Your Name",
-    "required": false,
-    "value": "𝚳𝚪 𝚫𝚴𝐃𝚩𝚫𝐃 SUPPORT"
+    "desc": "DON",
+    "required": true,
+    "value": "DON A"
   },
     "NUMERO_OWNER":
   {
     
     "desc": "Your number , dont put '+' and put you area code(exemple of togo '228')",
     "required":false,
-    "value": "255768318788"
+    "value": "263719929859"
   },
     "WARN_COUNT":
   {
