@@ -1,4 +1,4 @@
-really{
+
   "name":"DON MD",
   "description":"Deploy now your bot, ANDBAD was developed by DON himself.Make sure you fill all valuables to avoid bot from sleeping. ",
   "keywords":["bot","node","baileys","whatsapp"],
@@ -35,7 +35,7 @@ really{
     "BOT_NAME" : {
        
       "description":"put A name for your bot",
-      "value":" DON-Thandeka-AI",
+      "value":" DON-AI",
       "required":true
 
     } ,
